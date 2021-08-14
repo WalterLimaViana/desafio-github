@@ -1,0 +1,20 @@
+Anotaçôes sobre o git/github
+
+- markdown syntax:
+Sintaxes sobre o markdown
+https://www.markdownguide.org/basic-syntax/
+
+- directories do Maven:
+http://mvnrepository.com/
+
+- arquivos para javascript e CSS, como links, listas, referencias:
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+- capas, sinopses, títulos e cartazes de filmes para download:
+https://www.themoviedb.org/?language=pt-BR
+
+- icons e fonts diversas:
+https://fontawesome.com/start
+
+- jogo code minecraft:
+https://studio.code.org/s/mc/lessons/1/levels/9
