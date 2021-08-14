@@ -1,0 +1,17 @@
+mkdir = Cria  diretório
+echo > nomedoarquivo.md = Cria um novo arquivo
+ls = mostra arquivos no diretório
+cd .. = volta ao diretório anterior
+git status = mostra o status dos arquivos no git
+git add * = adiciona todos os arquivos ao stage
+git commit -m "ação realizada" = adiciona arquivos ao local directory
+mv arquivo.md ./repositório/
+ctrl + l = limpar tela
+git add nomearquivo = adiciona um arquivo
+git remote add origin https://github.com/WalterLimaViana/livroreceitas.git(página copiada do repositório do github)
+git remote -v = mostra o repositório no github
+git push origin master = envia arquivo para github
+git clone https://github.com/WalterLimaViana/livroreceitas.git = download de diretório direto pelo git
+ls -a = mostra arquivos ocultos
+git remote -v = mostra os repositórios remotos do diretório
+ 
